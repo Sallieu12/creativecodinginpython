@@ -1,7 +1,7 @@
-# adventure game
-print('Welcome to the Santa Cruz Mountain Adventure Game!')
+# Adventure game
+print('Welcome to the wildest Cruz Mountain Adventure Game!')
 print('*************************************************')
-print('You are visiting Santa Cruz, California.')
+print('You are visiting wildest Cruz, sierra leone.')
 print('You go on an evening hike alone in the mountains.')
 print('You can pick one item to take with you - ')
 print('map (m), flashlight(f), chocolate (c), rope(r), or stick (s): ')
